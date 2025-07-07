@@ -76,33 +76,31 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-
-      https://hhzyapi.com/api.php/provide/vod
-    }
+    },
     "豪华": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华"
-    }
-     "牛牛": {
+    },
+    "牛牛": {
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
       "name": "牛牛"
-    }
-      "CKZY": {
+    },
+    "CKZY": {
       "api": "https://ckzy.me/api.php/provide/vod",
       "name": "CKZY"
-    }
-     "JKUN": {
+    },
+    "JKUN": {
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "name": "JKUN"
-    }
+    },
     "百万资源": {
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "name": "百万资源"
-    }
+    },
     "搜Av": {
       "api": "https://api.souavzy.vip/api.php/provide/vod",
       "name": "搜Av"
-    }  
+    },
     "玉兔": {
       "api": "https://apiyutu.com/api.php/provide/vod",
       "name": "玉兔"
